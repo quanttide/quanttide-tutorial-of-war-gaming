@@ -1,0 +1,14 @@
+version: 1
+project:
+  title: 量潮兵旗推演教程
+  description: 量潮兵旗推演教程 - 兵旗推演的入门与进阶教程
+  keywords: [量潮, 兵旗推演, 教程]
+  authors:
+    - name: 量潮科技
+  license: CC-BY-4.0
+  toc:
+    - file: index.md
+site:
+  template: book-theme
+  options:
+    folders: true
