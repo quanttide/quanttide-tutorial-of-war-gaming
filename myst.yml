@@ -8,6 +8,11 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
+    - title: 兵棋推演
+      children:
+        - file: intro/wargaming-intro.md
+        - file: intro/historical-wargame-design.md
+        - file: intro/counterfactual-wargaming.md
 site:
   template: book-theme
   options:

@@ -4,9 +4,11 @@
 
 ## 概述
 
-本仓库收录量潮兵旗推演教程。当前收录：
+本仓库收录量潮兵旗推演教程，三篇递进：会推棋 → 会造棋 → 会做实验。当前收录：
 
-（初始化中，教程正文待迁入 `intro/`）
+- [intro/wargaming-intro.md](intro/wargaming-intro.md)：兵棋推演入门。
+- [intro/historical-wargame-design.md](intro/historical-wargame-design.md)：用真实历史造一盘棋。
+- [intro/counterfactual-wargaming.md](intro/counterfactual-wargaming.md)：反事实推演。
 
 ## 许可
 
